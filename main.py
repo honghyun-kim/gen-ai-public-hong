@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('This is a title')
+st.title('최유나 이거 보임??? ')
 st.title('This 한글도 됨? 수정')
 st.title('_Streamlit_ is :blue[cool] :sunglasses:')
 
